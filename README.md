@@ -1,6 +1,6 @@
 # Mnemon
 
-Mnemon is a brain-like memory framework for AI agents, plus an always-on daemon layer that turns those memory systems into a practical personal assistant. It combines episodic, semantic, procedural, working, sensory, and valence memory with goal management, consolidation, and daemon-side interfaces such as CLI, web UI, and MCP.
+Mnemon is a brain-like memory framework for AI agents, plus an always-on daemon layer that turns those memory systems into a practical personal assistant. It combines episodic, semantic, procedural, working, sensory, and valence memory with goal management, consolidation, and daemon-side interfaces such as CLI, web UI, and MCP...
 
 ## What you get
 
